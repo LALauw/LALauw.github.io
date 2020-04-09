@@ -1,0 +1,53 @@
+import React from "react";
+import ".././section.css";
+import "../../../App.css";
+import { useTranslation } from "react-i18next";
+import Roboshaq from "../../../assets/roboshaqingame.gif";
+import { Grid } from "semantic-ui-react";
+
+export default function PygameInfo() {
+  const { t } = useTranslation();
+  return (
+    <div className="item gitrepomargin">
+      <div className="card">
+        <div className="card-body">
+          <Grid.Row columns={1} className="columninfo">
+            <Grid.Column>
+              <h3 className="title">{t("pygame.titel")}</h3>
+            </Grid.Column>
+          </Grid.Row>
+          <div className="image">
+            <img className="image" src={Roboshaq} alt="Robo Shaq" />
+          </div>
+          <br />
+          <hr />
+          <h4 className="overrideh4">{t("pygame.about")}</h4>
+          <p>{t("pygame.abouttext")}</p>
+          <h4 className="overrideh4">{t("pygame.leren")}</h4>
+          <p>{t("pygame.lerentext")}</p>
+          <div className="table-responsive">
+            <table className="table">
+              <thead>
+                <tr>
+                  <th scope="col">{t("pygame.tech")}</th>
+                  <th scope="col">{t("pygame.tools")}</th>
+                </tr>
+              </thead>
+
+              <tbody>
+                <tr>
+                  <td>- Python</td>
+                  <td>- Pygame</td>
+                </tr>
+                <tr>
+                  <td>- Git / Github</td>
+                  <td>- Scrum</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,85 @@
+{
+  "developer": {
+    "1": "Software Developer",
+    "2": "Gekozen Taal: Nederlands"
+  },
+  "toast": {
+    "1": "Vertaald naar nederlands"
+  },
+  "about": {
+    "text": "Ik ben Leslie en studeer Software Engineering aan De Haagse Hogeschool (2e jaar). Mijn passie ligt bij problemen oplossen door middel van softwarematige oplossingen. Ik ga graag een uitdaging aan, ook sport ik graag en kijk ik af en toe een serie.",
+    "taal": "NL"
+  },
+  "project": {
+    "titel": "Recentste Projecten",
+    "hint": "Klik op een afbeelding voor info"
+  },
+  "keukenhofinfo": {
+    "titel": "Keukenhof - Web Applicatie",
+    "about": "Over dit project",
+    "about1": "We werden in een echt project gegooid dat van een bestaand bedijf was genaamd: ",
+    "about2": "die dit project heeft gekregen van ",
+    "about3": "Wij als studenten kregen de kans om de verouderde website van Keukenhof in een nieuw jasje te steken met het daarbij behordende Content Management Systeem, dit met het gegeven design van RedKiwi.",
+    "about4": "Dit gaf de beheerders van Keukenhof de mogelijkheid om content niet alleen toe te voegen maar ook bestaande content te wijzigen. We maakten gebruik van het ",
+    "about5": "framework om de web applicatie te bouwen. Ook hebben we de Entity Framework Core gebruikt om de database op te zetten en die te gebruiken. Als laatst werd de website gepubliceerd op Azure, ik heb erg genoten bij het maken van deze web applicatie samen met mijn software development team!",
+    "button": "Broncode is prive",
+    "rol": "Mijn Taak",
+    "taakbeschrijving": "Éen van mijn leukst en meest uitdagende projecten! Mijn taak was de gehele stack (full stack). Van het bouwen van de Front-End met HTML en CSS tot het bouwen van de Back-end, databases en controllers en als laatst de Front-End en Back-End aan elkaar koppelen.",
+    "moeilijkheden": "Project Uitdagingen",
+    "moeilijkhedentext": "Het grootste probleem met het bouwen van zo'n 'grote' web applicatie is de structuur van het project. Hou houd je je code overzichtelijk en efficiënt. Hoe maak je een connectie met de database door het gebruik van ASP.NET en hoe breng je Front-End en Back-End met elkaar samen?",
+    "oplossing": "De Oplossing",
+    "oplossingtext": "Onze oplossing was om gebruik te maken van MVC (Model-View-Controller, een ontwerp patroon die complexe structuren opdeeld in 3 stukken met verschillende verantwoordelijkheden. Dit gaf ons de mogelijkheid om de Front-End (Views) met de Back-End (Controllers en Models) samen te voegen. We maakten gebruik van Code-First programmeren om deze applicatie te maken, daarna hebben we gebruik gemaakt van Object Relational Mapping samen met het Entity Framework Core om de database te maken en samen te voegen met de Back-End.",
+    "tech": "Technologieën",
+    "tools": "Tools, Bibliotheken & Skills"
+  },
+  "scholing": {
+    "titel": "Scholing",
+    "p-diploma": "Propedeuse Diploma",
+    "p-school": "De Haagse Hogeschool",
+    "m-school": "Havo Diploma",
+    "m-school-type": "Middelbare School"
+  },
+  "werk": {
+    "titel": "Werk Ervaring",
+    "functie": "Assistent Manager",
+    "functie2": "Koerier en Keukenmedewerker",
+    "heden": "heden"
+  },
+  "contact": {
+    "titel": "Contact Informatie"
+  },
+  "skills": {
+    "andere": "Andere"
+  },
+  "mazegame": {
+    "titel": "MazeGameJLR - Los Het Doolhof Op!",
+    "about": "Een Korte Introductie...",
+    "abouttext": "Het spel gaat over een ridder die zijn weg moet vinden door het doolhof, dit doet hij door middel van het openen van barricades, maar barricades kunnen alleen geopend worden door speciale sleutel die de goede waarde bevatten. Help jij deze dappere ridder? Er is ook een Dark Mode beschikbaar, wie houdt er nou niet van een Dark Mode?",
+    "rol": "Mijn Rol",
+    "roltext": "In dit project leerde we voor het eerst Object Oriented Programming in Java. Dit was een leuk project! Mijn rol was om niet alleen het codeerwerk te doen maar ook de UI voor het spel, de volledige stack.",
+    "moeilijkheden": "Project Uitdagingen",
+    "moeilijkhedentext": "Het grote probleem en requirement van deze applicatie was, hoe houd je de code schoon en op orde? Hoe check je snel of een kleine verandering niet je applicatie breekt?",
+    "oplossing": "De Oplossing",
+    "oplossingtext": "Onze oplossing voor het probleem was door gebruik te maken van Object Oriented Programming tezamen met JUnit tests. Dit gaf ons de mogelijkheid om controle te hebben over onze code en het op te delen in Objecten. Het zorgt er niet alleen voor dat je code makkelijke te lezen is, maar ook dat het beter bij te houden is. Ook verbetert het de cohesie tussen de verschillende objecten. De JUnit tests gaven ons de mogelijkheid snel meerdere methodes te testen na het veranderen van de code. Door het gebruik van deze methode konden we snel zien wat de status was van onze code.  ",
+    "tech": "Technologieën",
+    "tools": "Tools, Bibliotheken & Skills"
+  },
+  "pygame": {
+    "titel": "Robo Shaq - Shooter",
+    "about": "Een Korte Introductie...",
+    "abouttext": "Verdedig je kasteel van de vijandige monsters! Het spel gaat over Robo Shaq die een minigun heeft om zijn vijanden weg te blazen. De vijanden komen in waves, telkens een stukje sterker!",
+    "leren": "Leercurve",
+    "lerentext": "Dit project is gebouwd met Python. Het eerste software gerelateerde project dat ik ook heb gemaakt met 1 maand programmeer ervaring. Ik heb veel geleerd van dit project, niet alleen heb ik mijn programmeer vaardigheden verbeterd maar ook project management skills zoals Scrum en het werken in teamverband.",
+    "tech": "Technologieën",
+    "tools": "Tools, Bibliotheken & Skills"
+  },
+  "portfolio": {
+    "titel": "Persoonlijk Porfiolio - Website",
+    "about": "Over Dit Project",
+    "abouttext": "Ik heb mijn portfolio gemaakt om mijn werk te laten zien, maar ook als middel voor mensen om met mij in contact te komen.",
+    "leren": "Leercurve",
+    "lerentext": "Deze website portfolio is gemaakt met ReactJS. Ik leerde voor het eerst van ReactJS nadat er mij een baan werdt aangeboden op de school waar ik aan studeerde. Ik begon met mijzelf in te lezen en met het uitproberen van wat dingetjes. Daarna besloot ik dat ik mijn portfolio wilde maken met ReactJS. En tadaa!! Mijn website portfolio was geboren!",
+    "tech": "Technologieën",
+    "tools": "Tools, Bibliotheken & Skills"
+  }
+}

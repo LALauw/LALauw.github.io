@@ -1,0 +1,85 @@
+{
+  "developer": {
+    "1": "Software Developer",
+    "2": "Chosen Language: English"
+  },
+  "toast": {
+    "1": "Language changed to english"
+  },
+  "about": {
+    "text": "I am Leslie and a student Software Engineering at The Hague University (2nd year). My passion lies in solving problems through software solutions. I like a challenge and also like to sport and watch some tv series. ",
+    "taal": "EN"
+  },
+  "project": {
+    "titel": "Latest Projects",
+    "hint": "Press an image for more info"
+  },
+  "keukenhofinfo": {
+    "titel": "Keukenhof - Web Application",
+    "about": "About this project",
+    "about1": "We got involved into a real project from a company named: ",
+    "about2": "that got this project from ",
+    "about3": "We as students got the oppertunity to create the new Keukenhof website backed by a Content Management System, we did this with the provided mock-up from RedKiwi.",
+    "about4": "This allowed the Keukenhof administrators to easily alter existing content on the website as well as adding new content. We used the ",
+    "about5": "framework to create the new web application. We also use the Entity Framework Core to set up and use the database for managing data. The website was then published onto Azure, I had a lot of fun creating this website with my software development team!",
+    "button": "Source code private",
+    "rol": "My Role",
+    "taakbeschrijving": "One of my most exciting projects! As a developer on this project I did the full stack. From building the Front-End with HTML and CSS to the Back-End, databases and controllers, as well as hooking everything up together.",
+    "moeilijkheden": "Project Challenges",
+    "moeilijkhedentext": "The main issue with building such a 'big' web application is how to structure the project that keeps the code easy to read and efficient. How do you connect to a database using ASP.NET and how do you hook up the Front-End with the Back-End?",
+    "oplossing": "The Solution",
+    "oplossingtext": "Our solution was to use MVC (Model-View-Controller), a design pattern that devides complex structures into 3 sections with different responsibilities. This also allowed us to seamlessly connect the Front-End (Views) with the back-end (Controllers and Models). We used Code-first to create this application, after that we used Object Relational Mapping together with the Entity Framework Core to create the database and connect our Back-End.",
+    "tech": "Technologies Used",
+    "tools": "Tools, Libraries & Skills"
+  },
+  "scholing": {
+    "titel": "Education",
+    "p-diploma": "Propaedeutic Phase Diploma",
+    "p-school": "The Hague University",
+    "m-school": "Higher General Secondary Education",
+    "m-school-type": "High School"
+  },
+  "werk": {
+    "titel": "Work Experience",
+    "functie": "Assistant Manager",
+    "functie2": "Courier & Kitchen Assistant",
+    "heden": "Present"
+  },
+  "contact": {
+    "titel": "Contact Information"
+  },
+  "skills": {
+    "andere": "Other"
+  },
+  "mazegame": {
+    "titel": "MazeGameJLR - Solve The Maze!",
+    "about": "A short introduction...",
+    "abouttext": "The game revolves around a knight that has to find his way through the maze by opening barricades, but barricades can only be opened by specific keys that contain the correct value. Will you help this brave knight? There is also a Dark Mode available, because who doesn't like a Dark Mode?",
+    "rol": "My Role",
+    "roltext": "In this project I first learned about Object Oriented programming in Java. This project was fun and exciting. My role was to do the coding and UI for the game, the full stack.",
+    "moeilijkheden": "Project Challenges",
+    "moeilijkhedentext": "The main problem and requirement of this application was, how do you keep the code clean and organized? How do you quickly check if any changes to the code broke your application?",
+    "oplossing": "The Solution",
+    "oplossingtext": "The main solution for our problem was to use Object Oriented programming together with JUnit tests. This allows us to have control over our code and split it into objects. This doesn't only make the code easier to read and update but also improves cohesion between the different components. The JUnit tests allowed us to quickly test numerous methods after changing the code. Using this method gave us a quick overview of the state of the code.",
+    "tech": "Technologies Used",
+    "tools": "Tools, Libraries & Skills"
+  },
+  "pygame": {
+    "titel": "Robo Shaq - Shooter",
+    "about": "A short introduction...",
+    "abouttext": "Defend your castle from the evil monsters! This game is about Robo Shaq that has a minigun to blast enemies. They will be coming in waves, getting increasingly more difficult over time!",
+    "leren": "Learning Curve",
+    "lerentext": "This project has been build with Python. The first ever software related project I made. With only 1 month of programming experience. I learned quite a lot from this project, not only did I improve my programming skills but also project management skills like Scrum.",
+    "tech": "Technologies Used",
+    "tools": "Tools, Libraries & skills"
+  },
+  "portfolio": {
+    "titel": "Personal Portfolio - Website",
+    "about": "About this project",
+    "abouttext": "I created my online porfolio to showcase the work that I've made, but also as a way for people to connect with me.",
+    "leren": "Learning Curve",
+    "lerentext": "This portfolio has been made with ReactJS. I first found out about ReactJS after a job offer at the school I was studying at. I began reading and trying stuff out. After that I decided I wanted to create my portfolio with ReactJS. And tadaa!! My website portfolio was born.",
+    "tech": "Technologies Used",
+    "tools": "Tools & Libraries"
+  }
+}

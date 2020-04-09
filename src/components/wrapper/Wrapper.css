@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.sections-wrapper {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.rowoverride {
+  display: flex;
+}
+@media (min-width: 1400px) {
+  .container {
+    width: 1360px;
+    max-width: inherit;
+  }
+}
