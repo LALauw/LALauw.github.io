@@ -16,8 +16,8 @@ export default function KeukenhofInfo() {
               <h3 className="title">{t("keukenhofinfo.titel")}</h3>
             </Grid.Column>
           </Grid.Row>
-          <div className="image">
-            <img className="image" src={KeukenhofFoto} alt="Keukenhof Foto" />
+          <div className="special">
+            <img className="special" src={KeukenhofFoto} alt="Keukenhof Foto" />
           </div>
           <br />
           <hr />

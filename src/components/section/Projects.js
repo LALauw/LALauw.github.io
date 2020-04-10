@@ -19,8 +19,8 @@ function Projects() {
         <p>{t("project.hint")}</p>
         <div className="content">
           <div className="item featured text-center">
-            <div className="row">
-              <div className="col-sm">
+            <div className="rowoverrideproject">
+              <div className="coloverride">
                 <a
                   onClick={() => setState("keukenhof")}
                   className="figureproject hoveranim"
@@ -33,7 +33,7 @@ function Projects() {
                 </a>
               </div>
 
-              <div className="col-sm">
+              <div className="coloverride">
                 <a
                   onClick={() => setState("maze")}
                   className="figureproject hoveranim"
@@ -45,9 +45,8 @@ function Projects() {
                   />
                 </a>
               </div>
-            </div>
-            <div className="row">
-              <div className="col-sm">
+
+              <div className="coloverride">
                 <a
                   onClick={() => setState("portfolio")}
                   className="figureproject hoveranim"
@@ -60,7 +59,7 @@ function Projects() {
                 </a>
               </div>
 
-              <div className="col-sm">
+              <div className="coloverride">
                 <a
                   onClick={() => setState("knights")}
                   className="figureproject hoveranim"

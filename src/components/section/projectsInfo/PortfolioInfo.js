@@ -2,7 +2,7 @@ import React from "react";
 import ".././section.css";
 import "../../../App.css";
 import { useTranslation } from "react-i18next";
-import KeukenhofFoto from "../../../assets/keukenhoffoto.png";
+import Portfoliogif from "../../../assets/portfoliogif2.gif";
 import { Grid } from "semantic-ui-react";
 
 export default function PortfolioInfo() {
@@ -16,8 +16,12 @@ export default function PortfolioInfo() {
               <h3 className="title">{t("portfolio.titel")}</h3>
             </Grid.Column>
           </Grid.Row>
-          <div className="image">
-            <img className="image" src={KeukenhofFoto} alt="Keukenhof Foto" />
+          <div className="specialgif">
+            <img
+              className="specialgif"
+              src={Portfoliogif}
+              alt="Portfolio Showcase Gif"
+            />
           </div>
           <br />
           <hr />
@@ -25,7 +29,7 @@ export default function PortfolioInfo() {
           <p>{t("portfolio.abouttext")}</p>
           <a
             className="btn btn-secondary btn-sm gitrepomargin"
-            href="https://github.com/LALauw/portfolio"
+            href="https://github.com/LALauw/lalauw.github.io"
             target="__blank"
             rel="noopener"
           >

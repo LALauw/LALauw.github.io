@@ -54,10 +54,8 @@ h4 {
 }
 
 .project-image {
-  max-width: 260px;
-  max-height: 200px;
-  min-width: 100px;
-  min-height: 100px;
+  max-width: 230px;
+  max-height: 150px;
   width: 100%;
   margin: 15px;
   margin-bottom: 25px;
@@ -90,9 +88,7 @@ h4 {
 }
 
 .figureproject {
-  display: flex;
-  justify-content: center;
-  margin: 15px;
+  margin: 5px;
 }
 
 .projectinfo {
@@ -121,6 +117,21 @@ th {
 
 .latest .item .image {
   max-width: 400px;
+  max-height: 250px;
+  width: 100%;
+  display: block;
+  margin: auto;
+  border-radius: 1%;
+}
+.latest .item .special {
+  max-height: 250px;
+  width: 100%;
+  display: block;
+  margin: auto;
+  border-radius: 1%;
+}
+.latest .item .specialgif {
+  max-width: 500px;
   max-height: 250px;
   width: 100%;
   display: block;
@@ -175,10 +186,39 @@ a {
   margin-bottom: 75px;
   border-radius: 10px;
 }
+.rowoverrideproject {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  flex-basis: 50%;
+  border-radius: 10px;
+}
 
 .coloverride {
   margin: 5px;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+@media screen and (max-width: 769px) and (min-width: 480px) {
+  .project-image {
+    width: 157px;
+    height: 96px;
+  }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 992px) {
+  .project-image {
+    width: 200px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .project-image {
+    width: 90px;
+    margin: 10px;
+  }
 }
