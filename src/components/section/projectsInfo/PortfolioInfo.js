@@ -29,7 +29,7 @@ export default function PortfolioInfo() {
           <p>{t("portfolio.abouttext")}</p>
           <a
             className="btn btn-secondary btn-sm gitrepomargin"
-            href="https://github.com/LALauw/lalauw.github.io"
+            href="https://github.com/LALauw/lalauw.github.io/tree/dev"
             target="__blank"
             rel="noopener"
           >
