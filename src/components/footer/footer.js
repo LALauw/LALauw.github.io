@@ -7,12 +7,8 @@ export default function footer() {
       <div class="container text-center">
         <small class="copyright">
           Copyright © 2020 by{" "}
-          <a
-            class="afooter"
-            href="https://lalauw.github.io/portfolio"
-            rel="noopener"
-          >
-            lalauw.github.io/portfolio.
+          <a class="afooter" href="https://lalauw.github.io/" rel="noopener">
+            lalauw.github.io/.
           </a>{" "}
           All rights reserved.
         </small>

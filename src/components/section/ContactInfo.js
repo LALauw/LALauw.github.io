@@ -13,7 +13,8 @@ export default function ContactInfo() {
           <ul className="list-unstyled">
             <li>
               <p>
-                <i className="fas fa-envelope"></i>lauw2498@live.nl
+                <i className="fas fa-envelope"></i>
+                <a href="mailto:lauw2498@live.nl">lauw2498@live.nl</a>
               </p>
             </li>
             <li>
