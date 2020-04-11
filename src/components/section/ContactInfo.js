@@ -10,30 +10,30 @@ export default function ContactInfo() {
       <div className="section-inner">
         <div className="content">
           <h2 className="heading">{t("contact.titel")}</h2>
-          <ul className="list-unstyled">
-            <li>
+          <div className="rowoverrideproject">
+            <div className="coloverridecontact">
               <p>
                 <i className="fas fa-envelope"></i>
                 <a href="mailto:lauw2498@live.nl">lauw2498@live.nl</a>
               </p>
-            </li>
-            <li>
+            </div>
+            <div className="coloverridecontact">
               <p>
                 <i className="fas fa-phone"></i>+31 6 34 03 78 46
               </p>
-            </li>
-            <a
-              href="https://www.linkedin.com/in/leslielauw/"
-              target="__blank"
-              rel="noopener"
-            >
-              <li>
+            </div>
+            <div className="coloverridecontact">
+              <a
+                href="https://www.linkedin.com/in/leslielauw/"
+                target="__blank"
+                rel="noopener"
+              >
                 <p>
                   <i className="fab fa-linkedin-in"></i>LinkedIn
                 </p>
-              </li>
-            </a>
-          </ul>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </aside>

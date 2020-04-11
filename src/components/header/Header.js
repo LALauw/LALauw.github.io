@@ -36,12 +36,16 @@ function Header() {
           <ul className="social list-inline padding-left: 15px;">
             <li key="b1" className="list-inline-item">
               <div onClick={() => handleClick("nl")}>
-                <div className="profile-lang-button">NL</div>
+                <div className="profile-lang-button">
+                  <b>NL</b>
+                </div>
               </div>
             </li>
             <li key="b2" className="list-inline-item">
               <div onClick={() => handleClick("en")}>
-                <div className="profile-lang-button">EN</div>
+                <div className="profile-lang-button">
+                  <b>EN</b>
+                </div>
               </div>
             </li>
           </ul>

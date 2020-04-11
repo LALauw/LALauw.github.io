@@ -26,14 +26,14 @@
 }
 
 .header .profile-content .name {
-  color: #99aab5;
+  color: #cccccc;
   font-size: 38px;
   margin-bottom: 5px;
   margin-top: 30px;
 }
 
 .header .profile-content .desc {
-  color: #778492;
+  color: #cccccc;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -42,7 +42,7 @@
 }
 
 .header .profile-content .h3j {
-  color: #778492;
+  color: #cccccc;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 13px;
@@ -51,7 +51,7 @@
 }
 
 .header .profile-content .social a {
-  background: #727d84;
+  background: #cccccc;
   width: 36px;
   height: 36px;
   display: inline-block;
@@ -63,12 +63,13 @@
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  color: #fff;
+  color: black;
   text-align: center;
 }
 
 .header .profile-content .social a:hover {
   background: #2c2f33;
+  color: white;
 }
 
 .header .profile-content .social a .svg-inline--fa {
@@ -95,8 +96,8 @@
   max-height: 40px;
   padding: 2px;
   cursor: pointer;
-  background-color: #727d84;
-  color: white;
+  background-color: #cccccc;
+  color: black;
   border-radius: 10px;
   font-size: 15px;
   font-family: arial;
@@ -117,6 +118,7 @@
 
 .profile-lang-button:hover {
   background: #2c2f33;
+  color: white;
 }
 
 .header .borderline-button {
