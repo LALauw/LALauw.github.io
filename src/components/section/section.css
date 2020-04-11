@@ -186,6 +186,17 @@ a {
   margin-bottom: 75px;
   border-radius: 10px;
 }
+
+.rowoverrideabout {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  flex-basis: 50%;
+  border-radius: 10px;
+}
+
 .rowoverrideproject {
   width: 100%;
   display: flex;

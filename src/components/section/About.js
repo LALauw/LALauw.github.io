@@ -1,6 +1,8 @@
 import React from "react";
 import "./section.css";
 import "../../App.css";
+import NL from "../../assets/CV_Leslie_Lauw_NL.pdf";
+import English from "../../assets/CV_Leslie_Lauw_EN.pdf";
 import { useTranslation } from "react-i18next";
 
 function About() {
@@ -12,11 +14,28 @@ function About() {
         <div className="content">
           <p>{t("about.text")}</p>
         </div>
-        <ul className="social list-inline padding-left: 15px;">
-          <li key="b1" className="list-inline-item">
-            <p>{t("about.taal")}</p>
-          </li>
-        </ul>
+        <div className="rowoverrideabout">
+          <div className="coloverride">
+            <a
+              className="btn btn-secondary btn-sm gitrepomargin"
+              href={NL}
+              target="__blank"
+              rel="noopener"
+            >
+              <i className="fas fa-file-alt"></i> {t("about.taal2")}
+            </a>
+          </div>
+          <div className="coloverride">
+            <a
+              className="btn btn-secondary btn-sm gitrepomargin"
+              href={English}
+              target="__blank"
+              rel="noopener"
+            >
+              <i className="fas fa-file-alt"></i> {t("about.taal1")}
+            </a>
+          </div>
+        </div>
       </div>
     </section>
   );
