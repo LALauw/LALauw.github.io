@@ -15,6 +15,21 @@
     "titel": "Recentste Projecten",
     "hint": "Klik op een afbeelding voor info"
   },
+  "outdoorinfo": {
+    "titel": "Outdoor Paradise - Web Applicatie",
+    "about": "Over dit project",
+    "about1": "Dit was een leuk maar uitdagend project. De 'main focus' van dit project was het migreren van 2 verschillende databases van 2 verschillende bedrijven: Great Outdoor en A&C, tot 1 gezamelijke database Outdoor Paradise. Great Outdoor was een groothandel die spullen outdoor producten verkocht aan retailers. A&C was een kleiner bedrijf die vooral outdoor producten verkocht aan particulieren. De 2 bedrijven gingen fuseren tot 1 bedrijf: Outdoor Paradise. Outdoor Paradise zou ook reizen gaan aanbieden. De uiteindelijke opdracht was het migreren en samenvoegen van de databases (met bestaande data) tot 1 database en daarmee een nieuwe applicatie te ontwikkelen. Voor dit project is een Live versie beschikbaar, klik op de 'Live versie' button om de applicatie te bezoeken.",
+    "button": "Broncode",
+    "buttonlive": "Live Versie",
+    "rol": "Mijn Taak",
+    "taakbeschrijving": "Ik was de Full Stack Lead Developer van het project. Zo had ik een leidinggevende rol in het team en voerde ik ook de Full Stack taken uit, zoals het migreren van de data met SSIS en het schrijven van de back-end code in C#. ",
+    "moeilijkheden": "Project Uitdagingen",
+    "moeilijkhedentext": "Bij dit project liepen we tegen een aantal problemen aan. Er was bijvoorbeeld bestaande data van de ene database die een conflict opleverde met de andere database. Hierdoor stonden we voor lastige keuzes. Welke data veranderen we zodat het wel correct gemigreerd wordt met de juiste integriteitseisen van de doeldatabase?",
+    "oplossing": "De Oplossing",
+    "oplossingtext": "Onze oplossing was door gebruik te maken van een ETL-Tool, SSIS (SQL Server Integration Services). Met deze tool konden we schema's maken om de data te migreren (Extract) in stappen. Ook konden we met deze tool de data aanpassen (Transform) om integriteitsproblemen te voorkomen. Nadat we de 2 databases hadden gemigreerd naar 1 database hebben we een applicatie ontwikkeld die de data van de doeldatabase laat zien (Load). Ook kun je data in de applicatie beheren, bijvoorbeeld in de nieuwe database medewerkers toevoegen, aanpassen en/of verwijderen",
+    "tech": "Technologieën",
+    "tools": "Tools, Bibliotheken & Skills"
+  },
   "keukenhofinfo": {
     "titel": "Keukenhof - Web Applicatie",
     "about": "Over dit project",
@@ -28,7 +43,7 @@
     "taakbeschrijving": "Éen van mijn leukst en meest uitdagende projecten! Mijn taak was de gehele stack (full stack). Van het bouwen van de Front-End met HTML en CSS tot het bouwen van de Back-end, databases en controllers en als laatst de Front-End en Back-End aan elkaar koppelen.",
     "moeilijkheden": "Project Uitdagingen",
     "moeilijkhedentext": "Het grootste probleem met het bouwen van zo'n 'grote' web applicatie is de structuur van het project. Hou houd je je code overzichtelijk en efficiënt. Hoe maak je een connectie met de database door het gebruik van ASP.NET en hoe breng je Front-End en Back-End met elkaar samen?",
-    "oplossing": "De Oplossing",
+    "oplossing": "Onze Oplossing",
     "oplossingtext": "Onze oplossing was om gebruik te maken van MVC (Model-View-Controller, een ontwerp patroon die complexe structuren opdeeld in 3 stukken met verschillende verantwoordelijkheden. Dit gaf ons de mogelijkheid om de Front-End (Views) met de Back-End (Controllers en Models) samen te voegen. We maakten gebruik van Code-First programmeren om deze applicatie te maken, daarna hebben we gebruik gemaakt van Object Relational Mapping samen met het Entity Framework Core om de database te maken en samen te voegen met de Back-End.",
     "tech": "Technologieën",
     "tools": "Tools, Bibliotheken & Skills"

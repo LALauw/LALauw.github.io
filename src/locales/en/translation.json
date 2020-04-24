@@ -15,6 +15,21 @@
     "titel": "Latest Projects",
     "hint": "Press an image for more info"
   },
+  "outdoorinfo": {
+    "titel": "Outdoor Paradise - Web Application",
+    "about": "About this project",
+    "about1": "This was a fun but challenging project. The 'main focus' of this project was to migrate 2 different databases from 2 different companies: Great Outdoor and A&C, to 1 joint database Outdoor paradise. Great Outdoor was an outdoor equipment wholesale company for retailers. A&C was a smaller company that primarily sold outdoor equipment to individuals. The 2 companies merged into 1 company: Outdoor Paradise. Outdoor Paradise was also going to offer trips. Our task was to migrate and merge the 2 databases (with existing data) into 1 database and develop a new application that uses the new database. A live version is available for this project, press the 'Live Version' button to visit the application.",
+    "button": "Source code",
+    "buttonlive": "Live Version",
+    "rol": "My Role",
+    "taakbeschrijving": "I was the Full Stack Lead Developer on the project. I had a leading rol in the team and also performed the Full Stack tasks, such as migrating the data with SSIS and writing the back-end code in C#. ",
+    "moeilijkheden": "Project Challenges",
+    "moeilijkhedentext": "We encountered a number of problems with this project. For example, there was existing data from one database that conflicted with data from the other database. As a result, we faced difficult choices. Which data do we change so that it is correctly migrated with the correct integrity requirements of the target database?",
+    "oplossing": "Our Solution",
+    "oplossingtext": "Our solution was to use an ETL Tool, SSIS (SQL Server Integration Services). This tool enabled us to create migration schedules to migrate the data (Extract) in steps. We were also able to transform the data (Transform) with this tool to avoid any integrity problems. After we migrated the 2 databases to 1 database, we developed an application that shows and uses the data from the new database (Load). You can also manage data in the application, for example add, change and / or delete employees in the new database",
+    "tech": "Technologies Used",
+    "tools": "Tools, Libraries & Skills"
+  },
   "keukenhofinfo": {
     "titel": "Keukenhof - Web Application",
     "about": "About this project",

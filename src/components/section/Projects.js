@@ -7,9 +7,10 @@ import ProjectsInfoSwitch from "./ProjectInfoSwitch";
 import MazegameFoto from "../../assets/mazeGameResize.png";
 import Roboshaq from "../../assets/roboshaq2.jpg";
 import PortfolioFoto from "../../assets/portfolioimage3.png";
+import OutdoorParadiseFoto from "../../assets/outdoorparadisePromo.png";
 
 function Projects() {
-  const [whichComponentToShow, setState] = useState("keukenhof");
+  const [whichComponentToShow, setState] = useState("outdoor");
   const { t } = useTranslation();
 
   return (
@@ -22,6 +23,18 @@ function Projects() {
             <div className="rowoverrideproject">
               <div className="coloverride">
                 <a
+                  onClick={() => setState("outdoor")}
+                  className="figureproject hoveranim"
+                >
+                  <img
+                    className="img-fluid project-image"
+                    src={OutdoorParadiseFoto}
+                    alt="Outdoor Paradise Responsive"
+                  />
+                </a>
+              </div>
+              <div className="coloverride">
+                <a
                   onClick={() => setState("keukenhof")}
                   className="figureproject hoveranim"
                 >
@@ -32,7 +45,6 @@ function Projects() {
                   />
                 </a>
               </div>
-
               <div className="coloverride">
                 <a
                   onClick={() => setState("maze")}
@@ -45,7 +57,6 @@ function Projects() {
                   />
                 </a>
               </div>
-
               <div className="coloverride">
                 <a
                   onClick={() => setState("portfolio")}
@@ -58,7 +69,7 @@ function Projects() {
                   />
                 </a>
               </div>
-
+              {/*
               <div className="coloverride">
                 <a
                   onClick={() => setState("knights")}
@@ -71,6 +82,7 @@ function Projects() {
                   />
                 </a>
               </div>
+*/}
             </div>
           </div>
           <ProjectsInfoSwitch soort={whichComponentToShow} />

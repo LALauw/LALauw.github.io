@@ -131,6 +131,14 @@ th {
   margin: auto;
   border-radius: 1%;
 }
+
+.latest .item .specialOp {
+  max-height: 500px;
+  width: 100%;
+  display: block;
+  margin: auto;
+  border-radius: 1%;
+}
 .latest .item .specialgif {
   max-width: 500px;
   max-height: 250px;

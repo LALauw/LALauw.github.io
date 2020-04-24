@@ -3,6 +3,7 @@ import KeukenhofInfo from "./projectsInfo/KeukenhofInfo";
 import MazegameJLR from "./projectsInfo/MazegameJLR";
 import PorfolioInfo from "./projectsInfo/PortfolioInfo";
 import PygameInfo from "./projectsInfo/PygameInfo";
+import OutdoorParadiseInfo from "./projectsInfo/OutdoorParadiseInfo";
 
 export default class ProjectsInfoSwitch extends React.Component {
   render() {
@@ -15,8 +16,10 @@ export default class ProjectsInfoSwitch extends React.Component {
         return <PorfolioInfo />;
       case "knights":
         return <PygameInfo />;
+      case "outdoor":
+        return <OutdoorParadiseInfo />;
       default:
-        return <KeukenhofInfo />;
+        return <OutdoorParadiseInfo />;
     }
   }
 }
