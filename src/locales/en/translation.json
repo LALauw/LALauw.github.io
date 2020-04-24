@@ -19,7 +19,7 @@
     "titel": "Outdoor Paradise - Web Application",
     "about": "About this project",
     "about1": "This was a fun but challenging project. The 'main focus' of this project was to migrate 2 different databases from 2 different companies: Great Outdoor and A&C, to 1 joint database Outdoor paradise. Great Outdoor was an outdoor equipment wholesale company for retailers. A&C was a smaller company that primarily sold outdoor equipment to individuals. The 2 companies merged into 1 company: Outdoor Paradise. Outdoor Paradise was also going to offer trips. Our task was to migrate and merge the 2 databases (with existing data) into 1 database and develop a new application that uses the new database. A live version is available for this project, press the 'Live Version' button to visit the application.",
-    "button": "Source code",
+    "button": "Source code private",
     "buttonlive": "Live Version",
     "rol": "My Role",
     "taakbeschrijving": "I was the Full Stack Lead Developer on the project. I had a leading rol in the team and also performed the Full Stack tasks, such as migrating the data with SSIS and writing the back-end code in C#. ",
