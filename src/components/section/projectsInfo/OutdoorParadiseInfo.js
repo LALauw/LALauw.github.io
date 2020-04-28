@@ -27,12 +27,12 @@ export default function KeukenhofInfo() {
           <h4 className="overrideh4">{t("outdoorinfo.about")}</h4>
           <p>{t("outdoorinfo.about1")}&nbsp;</p>
           <a
-            className="btn btn-secondary btn-sm gitrepomargin disabled"
-            href="https://github.com/LALauw/Outdoor_Paradise_WebApp/tree/dev"
+            className="btn btn-secondary btn-sm gitrepomargin"
+            href="https://github.com/LALauw/Outdoor_Paradise_Web_App"
             target="__blank"
             rel="noopener"
           >
-            <i className="fas fa-eye-slash"></i> {t("outdoorinfo.button")}
+            <i className="fab fa-github"></i> {t("outdoorinfo.button")}
           </a>
           <a
             className="btn btn-secondary btn-sm gitrepomargin"
