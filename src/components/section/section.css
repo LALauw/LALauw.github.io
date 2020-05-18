@@ -20,7 +20,7 @@ h4 {
 }
 
 .section .section-inner {
-  background: #fff;
+  background: #efeeee;
   padding: 30px;
 }
 
@@ -220,7 +220,43 @@ a {
   align-items: center;
   border: 1px solid rgba(0, 0, 0, 0.459);
   border-radius: 0.2rem;
+}
+
+.neumorphism {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #efeeee;
+  border-radius: 12px;
+  background: #efeeee;
+  box-shadow: 5px 5px 10px #d9d9d9, -5px -5px 10px #ffffff;
   transition: 0.1s ease-in-out;
+}
+.neumorphism:hover {
+  -webkit-transform: scale(0.99);
+  transform: scale(0.99);
+  cursor: pointer;
+  box-shadow: inset -1px -1px 3px rgba(255, 255, 255, 0.1),
+    inset 2px 2px 6px rgba(68, 68, 68, 0.678);
+}
+.neumorphismSelected {
+  transform: scale(0.99);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #efeeee;
+  border-radius: 12px;
+  background: #efeeee;
+  box-shadow: inset -1px -1px 3px rgba(255, 255, 255, 0.1),
+    inset 2px 2px 6px rgba(68, 68, 68, 0.678);
+}
+
+.card {
+  background: #efeeee;
+  box-shadow: 5px 5px 10px #d9d9d9, -5px -5px 10px #ffffff;
+  border: 0px;
 }
 
 .heading-project {

@@ -11,7 +11,7 @@ import csslogo from "../../assets/csslogo.png";
 import jslogo from "../../assets/jslogo.jpg";
 import pythonlogo from "../../assets/pythonlogo.png";
 import mssql from "../../assets/mssql.png";
-import reactjs from "../../assets/reactjs3.png";
+import reactjs from "../../assets/reactjs4.png";
 import nodejs from "../../assets/nodejs.png";
 import umllogo from "../../assets/umllogo2.png";
 import scrumlogo from "../../assets/scrumlogo2.png";

@@ -21,7 +21,13 @@ function Projects() {
         <div className="content">
           <div className="item featured text-center ">
             <div className="rowoverrideproject">
-              <div className="coloverrideproject ">
+              <div
+                className={
+                  whichComponentToShow === "outdoor"
+                    ? "neumorphismSelected"
+                    : "neumorphism"
+                }
+              >
                 <h3 className="heading-project">Outdoor paradise</h3>
                 <a
                   onClick={() => setState("outdoor")}
@@ -34,7 +40,13 @@ function Projects() {
                   />
                 </a>
               </div>
-              <div className="coloverrideproject">
+              <div
+                className={
+                  whichComponentToShow === "keukenhof"
+                    ? "neumorphismSelected"
+                    : "neumorphism"
+                }
+              >
                 <h3 className="heading-project">Keukenhof</h3>
                 <a
                   onClick={() => setState("keukenhof")}
@@ -47,7 +59,13 @@ function Projects() {
                   />
                 </a>
               </div>
-              <div className="coloverrideproject">
+              <div
+                className={
+                  whichComponentToShow === "maze"
+                    ? "neumorphismSelected"
+                    : "neumorphism"
+                }
+              >
                 <h3 className="heading-project">MazaGameJLR</h3>
                 <a
                   onClick={() => setState("maze")}
@@ -60,7 +78,13 @@ function Projects() {
                   />
                 </a>
               </div>
-              <div className="coloverrideproject">
+              <div
+                className={
+                  whichComponentToShow === "portfolio"
+                    ? "neumorphismSelected"
+                    : "neumorphism"
+                }
+              >
                 <h3 className="heading-project">Personal Portfolio</h3>
                 <a
                   onClick={() => setState("portfolio")}
@@ -74,7 +98,13 @@ function Projects() {
                 </a>
               </div>
 
-              <div className="coloverrideproject">
+              <div
+                className={
+                  whichComponentToShow === "knights"
+                    ? "neumorphismSelected"
+                    : "neumorphism"
+                }
+              >
                 <h3 className="heading-project">RoboShaq Shooter</h3>
                 <a
                   onClick={() => setState("knights")}
