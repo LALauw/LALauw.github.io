@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb6cc088.chunk.css",
+    "main.css": "/static/css/main.9ba99118.chunk.css",
     "main.js": "/static/js/main.df4253ac.chunk.js",
     "main.js.map": "/static/js/main.df4253ac.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.513c649c.js",
@@ -9,10 +9,10 @@
     "static/js/2.d74d6e7a.chunk.js": "/static/js/2.d74d6e7a.chunk.js",
     "static/js/2.d74d6e7a.chunk.js.map": "/static/js/2.d74d6e7a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f6ca760246cd8612d1cd475c94a962c6.js": "/precache-manifest.f6ca760246cd8612d1cd475c94a962c6.js",
+    "precache-manifest.5c638d94b26c0002773d1e122c740f85.js": "/precache-manifest.5c638d94b26c0002773d1e122c740f85.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.fb6cc088.chunk.css.map": "/static/css/main.fb6cc088.chunk.css.map",
+    "static/css/main.9ba99118.chunk.css.map": "/static/css/main.9ba99118.chunk.css.map",
     "static/js/2.d74d6e7a.chunk.js.LICENSE.txt": "/static/js/2.d74d6e7a.chunk.js.LICENSE.txt",
     "static/media/CV_Leslie_Lauw_EN.pdf": "/static/media/CV_Leslie_Lauw_EN.fd5160e2.pdf",
     "static/media/CV_Leslie_Lauw_NL.pdf": "/static/media/CV_Leslie_Lauw_NL.638c4dda.pdf",
@@ -44,7 +44,7 @@
     "static/js/runtime-main.513c649c.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.d74d6e7a.chunk.js",
-    "static/css/main.fb6cc088.chunk.css",
+    "static/css/main.9ba99118.chunk.css",
     "static/js/main.df4253ac.chunk.js"
   ]
 }
