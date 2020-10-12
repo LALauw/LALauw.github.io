@@ -55,6 +55,10 @@
     "m-school": "Higher General Secondary Education",
     "m-school-type": "High School"
   },
+  "certificaten": {
+    "titel": "Certificates",
+    "date": "oct"
+  },
   "werk": {
     "titel": "Work Experience",
     "functie": "Assistant Manager",

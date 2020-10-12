@@ -9,6 +9,7 @@ import "../../App.css";
 import Skills from "../section/Skills";
 import Education from "../section/Education";
 import Work from "../section/Work";
+import Cerfiticates from "../section/Certificates";
 
 function Wrapper() {
   return (
@@ -21,6 +22,7 @@ function Wrapper() {
         <div className="secondary col-lg-4 col-12">
           <Skills />
           <Education />
+          <Cerfiticates />
           <Work />
           <ContactInfo />
         </div>

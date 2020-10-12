@@ -16,6 +16,7 @@ import nodejs from "../../assets/nodejs.png";
 import umllogo from "../../assets/umllogo2.png";
 import scrumlogo from "../../assets/scrumlogo2.png";
 import requirementslogo from "../../assets/requirementsfile.svg";
+import blockchainlogo from "../../assets/blockchain.png";
 import { useTranslation } from "react-i18next";
 
 export default function Skills() {
@@ -130,6 +131,17 @@ export default function Skills() {
               alt="File-Logo"
             ></img>
             <h4 className="overrideh4metmargin">Requirements Engineering</h4>
+          </div>
+        </div>
+        <h3 className="heading">Blockchain Skills</h3>
+        <div className="rowoverride">
+          <div className="coloverride alignitems">
+            <img
+              src={blockchainlogo}
+              className="imagevoorcol"
+              alt="Blockchain-logo"
+            ></img>
+            <h4 className="overrideh4metmargin">Blockchain 101</h4>
           </div>
         </div>
       </div>

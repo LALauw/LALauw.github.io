@@ -55,6 +55,10 @@
     "m-school": "Havo Diploma",
     "m-school-type": "Middelbare School"
   },
+  "certificaten": {
+    "titel": "Certificaten",
+    "date": "okt"
+  },
   "werk": {
     "titel": "Werk Ervaring",
     "functie": "Assistent Manager",

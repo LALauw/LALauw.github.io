@@ -147,6 +147,11 @@ a {
   max-width: 50px;
   max-height: 50px;
 }
+
+.imagevoorcert {
+  max-width: 35px;
+  max-height: 35px;
+}
 .alignitems {
   text-align: center;
 }
@@ -158,6 +163,15 @@ a {
   color: #4a4d50;
   margin-top: 5px;
   max-width: 100px;
+}
+
+.overrideh4certificates {
+  font-family: "arial";
+  font-size: 12px;
+  font-weight: 700;
+  color: #4a4d50;
+  margin-top: 15px;
+  margin: 5px;
 }
 
 .companyname {
@@ -278,6 +292,10 @@ a {
   display: flex;
   align-items: center;
   width: 100%;
+}
+
+.certficatesrow {
+  justify-content: left;
 }
 
 @media screen and (max-width: 769px) and (min-width: 480px) {
