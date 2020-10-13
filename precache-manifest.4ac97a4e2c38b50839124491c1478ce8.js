@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61c1655bca53afad21862152bb3957c9",
+    "revision": "8b11f1e504fb074ad44933d53a22584c",
     "url": "/index.html"
   },
   {
-    "revision": "14396f7ed6ab8f677b91",
+    "revision": "b1bc23a184ce408b167a",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "1ddb5f2621e8c74d22dd",
+    "revision": "12b6c5d28aca30d3a7e9",
     "url": "/static/css/main.60b9a62e.chunk.css"
   },
   {
-    "revision": "14396f7ed6ab8f677b91",
-    "url": "/static/js/2.d9e2ecc6.chunk.js"
+    "revision": "b1bc23a184ce408b167a",
+    "url": "/static/js/2.d7771167.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/static/js/2.d9e2ecc6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d7771167.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ddb5f2621e8c74d22dd",
-    "url": "/static/js/main.84209c4c.chunk.js"
+    "revision": "12b6c5d28aca30d3a7e9",
+    "url": "/static/js/main.50ed24c5.chunk.js"
   },
   {
     "revision": "e219871dcaf1e1d07824",
@@ -34,6 +34,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "638c4ddac3ac108bbd5a263d31b0d4a5",
     "url": "/static/media/CV_Leslie_Lauw_NL.638c4dda.pdf"
+  },
+  {
+    "revision": "51cd8fd09150110743ec2510541d83c1",
+    "url": "/static/media/Cert_Blockchain&Bitcoin101_LeslieLauw.51cd8fd0.pdf"
+  },
+  {
+    "revision": "088ea84f0162df031359cf8e959356b6",
+    "url": "/static/media/Cert_Ethereum101_LeslieLauw.088ea84f.pdf"
   },
   {
     "revision": "5d7252145ef12864e9479f749b5222de",

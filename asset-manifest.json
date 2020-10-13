@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.60b9a62e.chunk.css",
-    "main.js": "/static/js/main.84209c4c.chunk.js",
-    "main.js.map": "/static/js/main.84209c4c.chunk.js.map",
+    "main.js": "/static/js/main.50ed24c5.chunk.js",
+    "main.js.map": "/static/js/main.50ed24c5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.513c649c.js",
     "runtime-main.js.map": "/static/js/runtime-main.513c649c.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.d9e2ecc6.chunk.js": "/static/js/2.d9e2ecc6.chunk.js",
-    "static/js/2.d9e2ecc6.chunk.js.map": "/static/js/2.d9e2ecc6.chunk.js.map",
+    "static/js/2.d7771167.chunk.js": "/static/js/2.d7771167.chunk.js",
+    "static/js/2.d7771167.chunk.js.map": "/static/js/2.d7771167.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.87451335efbf831f12ae75fc5692cc41.js": "/precache-manifest.87451335efbf831f12ae75fc5692cc41.js",
+    "precache-manifest.4ac97a4e2c38b50839124491c1478ce8.js": "/precache-manifest.4ac97a4e2c38b50839124491c1478ce8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
     "static/css/main.60b9a62e.chunk.css.map": "/static/css/main.60b9a62e.chunk.css.map",
-    "static/js/2.d9e2ecc6.chunk.js.LICENSE.txt": "/static/js/2.d9e2ecc6.chunk.js.LICENSE.txt",
+    "static/js/2.d7771167.chunk.js.LICENSE.txt": "/static/js/2.d7771167.chunk.js.LICENSE.txt",
     "static/media/CV_Leslie_Lauw_EN.pdf": "/static/media/CV_Leslie_Lauw_EN.fd5160e2.pdf",
     "static/media/CV_Leslie_Lauw_NL.pdf": "/static/media/CV_Leslie_Lauw_NL.638c4dda.pdf",
+    "static/media/Cert_Blockchain&Bitcoin101_LeslieLauw.pdf": "/static/media/Cert_Blockchain&Bitcoin101_LeslieLauw.51cd8fd0.pdf",
+    "static/media/Cert_Ethereum101_LeslieLauw.pdf": "/static/media/Cert_Ethereum101_LeslieLauw.088ea84f.pdf",
     "static/media/Keukenhof.png": "/static/media/Keukenhof.5d725214.png",
     "static/media/blockchain.png": "/static/media/blockchain.c269d8fa.png",
     "static/media/c-sharplogo.png": "/static/media/c-sharplogo.de83b3ac.png",
@@ -45,8 +47,8 @@
   "entrypoints": [
     "static/js/runtime-main.513c649c.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.d9e2ecc6.chunk.js",
+    "static/js/2.d7771167.chunk.js",
     "static/css/main.60b9a62e.chunk.css",
-    "static/js/main.84209c4c.chunk.js"
+    "static/js/main.50ed24c5.chunk.js"
   ]
 }
