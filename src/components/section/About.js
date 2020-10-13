@@ -9,7 +9,7 @@ function About() {
   const { t } = useTranslation();
   return (
     <section className="about section">
-      <div className="section-inner">
+      <div className="section-inner overflow-hidden">
         <h2 className="heading">Hello World!</h2>
         <div className="content">
           <p>{t("about.text")}</p>
