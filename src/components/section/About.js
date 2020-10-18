@@ -12,7 +12,8 @@ function About() {
       <div className="section-inner overflow-hidden">
         <h2 className="heading">Hello World!</h2>
         <div className="content">
-          <p>{t("about.text")}</p>
+          <p>{t("about.text1")}</p>
+          <p>{t("about.text2")}</p>
         </div>
         <div className="rowoverrideabout">
           <div className="coloverride">
