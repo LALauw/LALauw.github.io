@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "745c606b3d5cee81278d37a807459eff",
+    "revision": "14d88aa91bcd59814bf4518207d1b292",
     "url": "/index.html"
   },
   {
-    "revision": "b1bc23a184ce408b167a",
+    "revision": "fd5914949acc2fdcd438",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "70f201be95d5e279ec03",
+    "revision": "5d82ef67eac18be00f5d",
     "url": "/static/css/main.60b9a62e.chunk.css"
   },
   {
-    "revision": "b1bc23a184ce408b167a",
-    "url": "/static/js/2.d7771167.chunk.js"
+    "revision": "fd5914949acc2fdcd438",
+    "url": "/static/js/2.800c22ac.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/static/js/2.d7771167.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.800c22ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "70f201be95d5e279ec03",
-    "url": "/static/js/main.de2cba90.chunk.js"
+    "revision": "5d82ef67eac18be00f5d",
+    "url": "/static/js/main.5c95c103.chunk.js"
   },
   {
     "revision": "e219871dcaf1e1d07824",
@@ -36,8 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CV_Leslie_Lauw_NL.638c4dda.pdf"
   },
   {
+    "revision": "a7d36abd626a002d0d44f8fb98c26673",
+    "url": "/static/media/Cert_Bitcoin_Standard_LeslieLauw.a7d36abd.pdf"
+  },
+  {
     "revision": "51cd8fd09150110743ec2510541d83c1",
     "url": "/static/media/Cert_Blockchain&Bitcoin101_LeslieLauw.51cd8fd0.pdf"
+  },
+  {
+    "revision": "53ca79a33d105604d00ddd456868bac2",
+    "url": "/static/media/Cert_Defi101_LeslieLauw.53ca79a3.pdf"
   },
   {
     "revision": "088ea84f0162df031359cf8e959356b6",
