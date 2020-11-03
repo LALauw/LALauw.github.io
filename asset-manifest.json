@@ -1,26 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.60b9a62e.chunk.css",
-    "main.js": "/static/js/main.5c95c103.chunk.js",
-    "main.js.map": "/static/js/main.5c95c103.chunk.js.map",
+    "main.js": "/static/js/main.4fbe3cff.chunk.js",
+    "main.js.map": "/static/js/main.4fbe3cff.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.513c649c.js",
     "runtime-main.js.map": "/static/js/runtime-main.513c649c.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.800c22ac.chunk.js": "/static/js/2.800c22ac.chunk.js",
-    "static/js/2.800c22ac.chunk.js.map": "/static/js/2.800c22ac.chunk.js.map",
+    "static/js/2.f79b8bfe.chunk.js": "/static/js/2.f79b8bfe.chunk.js",
+    "static/js/2.f79b8bfe.chunk.js.map": "/static/js/2.f79b8bfe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.95419f55ac7a598a4f657d8445d43658.js": "/precache-manifest.95419f55ac7a598a4f657d8445d43658.js",
+    "precache-manifest.93d775fab74f84a9daecbaa8664d0083.js": "/precache-manifest.93d775fab74f84a9daecbaa8664d0083.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
     "static/css/main.60b9a62e.chunk.css.map": "/static/css/main.60b9a62e.chunk.css.map",
-    "static/js/2.800c22ac.chunk.js.LICENSE.txt": "/static/js/2.800c22ac.chunk.js.LICENSE.txt",
+    "static/js/2.f79b8bfe.chunk.js.LICENSE.txt": "/static/js/2.f79b8bfe.chunk.js.LICENSE.txt",
     "static/media/CV_Leslie_Lauw_EN.pdf": "/static/media/CV_Leslie_Lauw_EN.fd5160e2.pdf",
     "static/media/CV_Leslie_Lauw_NL.pdf": "/static/media/CV_Leslie_Lauw_NL.638c4dda.pdf",
     "static/media/Cert_Bitcoin_Standard_LeslieLauw.pdf": "/static/media/Cert_Bitcoin_Standard_LeslieLauw.a7d36abd.pdf",
     "static/media/Cert_Blockchain&Bitcoin101_LeslieLauw.pdf": "/static/media/Cert_Blockchain&Bitcoin101_LeslieLauw.51cd8fd0.pdf",
     "static/media/Cert_Defi101_LeslieLauw.pdf": "/static/media/Cert_Defi101_LeslieLauw.53ca79a3.pdf",
     "static/media/Cert_Ethereum101_LeslieLauw.pdf": "/static/media/Cert_Ethereum101_LeslieLauw.088ea84f.pdf",
+    "static/media/Cert_Smart_Contracts_101_LeslieLauw.pdf": "/static/media/Cert_Smart_Contracts_101_LeslieLauw.b65a7587.pdf",
     "static/media/Keukenhof.png": "/static/media/Keukenhof.5d725214.png",
+    "static/media/Solidity.svg": "/static/media/Solidity.da793b47.svg",
+    "static/media/angular.png": "/static/media/angular.1a632d2b.png",
     "static/media/blockchain.png": "/static/media/blockchain.c269d8fa.png",
     "static/media/c-sharplogo.png": "/static/media/c-sharplogo.de83b3ac.png",
     "static/media/csslogo.png": "/static/media/csslogo.c26a73b4.png",
@@ -44,13 +47,14 @@
     "static/media/requirementsfile.svg": "/static/media/requirementsfile.3dfed458.svg",
     "static/media/roboshaq2.jpg": "/static/media/roboshaq2.d170fcea.jpg",
     "static/media/roboshaqingame.gif": "/static/media/roboshaqingame.340135af.gif",
-    "static/media/scrumlogo2.png": "/static/media/scrumlogo2.79c219f5.png"
+    "static/media/scrumlogo2.png": "/static/media/scrumlogo2.79c219f5.png",
+    "static/media/typescript.png": "/static/media/typescript.3c881770.png"
   },
   "entrypoints": [
     "static/js/runtime-main.513c649c.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.800c22ac.chunk.js",
+    "static/js/2.f79b8bfe.chunk.js",
     "static/css/main.60b9a62e.chunk.css",
-    "static/js/main.5c95c103.chunk.js"
+    "static/js/main.4fbe3cff.chunk.js"
   ]
 }

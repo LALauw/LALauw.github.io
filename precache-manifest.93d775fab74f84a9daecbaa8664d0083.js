@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14d88aa91bcd59814bf4518207d1b292",
+    "revision": "9f5de3bc84e65e268c4977b2a29be343",
     "url": "/index.html"
   },
   {
-    "revision": "fd5914949acc2fdcd438",
+    "revision": "3995d525215cdf4062d1",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "5d82ef67eac18be00f5d",
+    "revision": "948390de3b8d22a9b864",
     "url": "/static/css/main.60b9a62e.chunk.css"
   },
   {
-    "revision": "fd5914949acc2fdcd438",
-    "url": "/static/js/2.800c22ac.chunk.js"
+    "revision": "3995d525215cdf4062d1",
+    "url": "/static/js/2.f79b8bfe.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/static/js/2.800c22ac.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f79b8bfe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d82ef67eac18be00f5d",
-    "url": "/static/js/main.5c95c103.chunk.js"
+    "revision": "948390de3b8d22a9b864",
+    "url": "/static/js/main.4fbe3cff.chunk.js"
   },
   {
     "revision": "e219871dcaf1e1d07824",
@@ -52,8 +52,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Cert_Ethereum101_LeslieLauw.088ea84f.pdf"
   },
   {
+    "revision": "b65a758722c9b2332ab6ed5485c1d72c",
+    "url": "/static/media/Cert_Smart_Contracts_101_LeslieLauw.b65a7587.pdf"
+  },
+  {
     "revision": "5d7252145ef12864e9479f749b5222de",
     "url": "/static/media/Keukenhof.5d725214.png"
+  },
+  {
+    "revision": "da793b471bc2bf44b0340d93ec74ecb3",
+    "url": "/static/media/Solidity.da793b47.svg"
+  },
+  {
+    "revision": "1a632d2b39f3275752f2c4b3c73477a3",
+    "url": "/static/media/angular.1a632d2b.png"
   },
   {
     "revision": "c269d8fa5162e7847c1c17e040863256",
@@ -150,5 +162,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "79c219f526a8c451ae14f0419e69cf68",
     "url": "/static/media/scrumlogo2.79c219f5.png"
+  },
+  {
+    "revision": "3c88177095bb30849460f96f1bf11c5e",
+    "url": "/static/media/typescript.3c881770.png"
   }
 ]);
