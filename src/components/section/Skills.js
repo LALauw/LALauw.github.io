@@ -17,6 +17,10 @@ import umllogo from "../../assets/umllogo2.png";
 import scrumlogo from "../../assets/scrumlogo2.png";
 import requirementslogo from "../../assets/requirementsfile.svg";
 import blockchainlogo from "../../assets/blockchain.png";
+import typescriptlogo from "../../assets/typescript.png";
+import angularlogo from "../../assets/angular.png";
+import soliditylogo from "../../assets/Solidity.svg";
+
 import { useTranslation } from "react-i18next";
 
 export default function Skills() {
@@ -26,6 +30,22 @@ export default function Skills() {
       <div className="section-inner">
         <h3 className="heading">Front-End Skills</h3>
         <div className="rowoverride">
+        <div className="coloverride">
+            <img
+              src={angularlogo}
+              className="imagevoorcol"
+              alt="Angular-logo"
+            ></img>
+            <h4 className="overrideh4metmargin">Angular</h4>
+          </div>
+          <div className="coloverride alignitems">
+            <img
+              src={typescriptlogo}
+              className="imagevoorcol"
+              alt="Typescript-Logo"
+            ></img>
+            <h4 className="overrideh4metmargin">Typescript</h4>
+          </div>
           <div className="coloverride">
             <img
               src={html5logo}
@@ -34,7 +54,6 @@ export default function Skills() {
             ></img>
             <h4 className="overrideh4metmargin">HTML5</h4>
           </div>
-
           <div className="coloverride alignitems">
             <img src={csslogo} className="imagevoorcol" alt="CSS-Logo"></img>
             <h4 className="overrideh4metmargin">CSS</h4>
@@ -135,6 +154,14 @@ export default function Skills() {
         </div>
         <h3 className="heading">Blockchain Skills</h3>
         <div className="rowoverride">
+        <div className="coloverride alignitems">
+            <img
+              src={soliditylogo}
+              className="imagevoorcol"
+              alt="Blockchain-logo"
+            ></img>
+            <h4 className="overrideh4metmargin">Solidity *Certified</h4>
+          </div>
           <div className="coloverride alignitems">
             <img
               src={blockchainlogo}
