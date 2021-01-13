@@ -30,7 +30,7 @@ export default function Skills() {
       <div className="section-inner">
         <h3 className="heading">Front-End Skills</h3>
         <div className="rowoverride">
-        <div className="coloverride">
+          <div className="coloverride">
             <img
               src={angularlogo}
               className="imagevoorcol"
@@ -154,13 +154,13 @@ export default function Skills() {
         </div>
         <h3 className="heading">Blockchain Skills</h3>
         <div className="rowoverride">
-        <div className="coloverride alignitems">
+          <div className="coloverride alignitems">
             <img
               src={soliditylogo}
               className="imagevoorcol"
               alt="Blockchain-logo"
             ></img>
-            <h4 className="overrideh4metmargin">Solidity *Certified</h4>
+            <h4 className="overrideh4metmargin">Solidity</h4>
           </div>
           <div className="coloverride alignitems">
             <img

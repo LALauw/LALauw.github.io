@@ -18,11 +18,6 @@ export default function ContactInfo() {
               </p>
             </div>
             <div className="coloverridecontact">
-              <p>
-                <i className="fas fa-phone"></i>+31 6 34 03 78 46
-              </p>
-            </div>
-            <div className="coloverridecontact">
               <a
                 href="https://www.linkedin.com/in/leslielauw/"
                 target="__blank"
