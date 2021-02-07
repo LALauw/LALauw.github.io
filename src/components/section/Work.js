@@ -11,6 +11,36 @@ export default function Work() {
           <div className="item">
             <div className="item">
               <h3 className="overrideh4">
+                {t("werk.functie4")}
+                <h4 className="companyname">
+                  <a
+                    href="https://www.methylium.com/"
+                    target="__blank"
+                    rel="noopener"
+                  >
+                    Methylium
+                  </a>
+                </h4>
+                <p>2021 - {t("werk.heden")}</p>
+              </h3>
+            </div>
+            <div className="item">
+              <h3 className="overrideh4">
+                {t("werk.functie3")}
+                <h4 className="companyname">
+                  <a
+                    href="https://www.methylium.com/"
+                    target="__blank"
+                    rel="noopener"
+                  >
+                    Methylium
+                  </a>
+                </h4>
+                <p>2020 - 2021</p>
+              </h3>
+            </div>
+            <div className="item">
+              <h3 className="overrideh4">
                 {t("werk.functie")}
                 <h4 className="companyname">
                   <a
@@ -35,7 +65,7 @@ export default function Work() {
                   De Beren
                 </a>
               </h4>
-              <p>2012 - {t("werk.heden")}</p>
+              <p>2012 - 2020</p>
             </h3>
           </div>
         </div>
